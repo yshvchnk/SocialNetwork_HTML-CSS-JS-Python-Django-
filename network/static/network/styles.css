@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    color: black;
+    font-size: 16px;
+}
+
+.form-newpost {
+    margin: 10px;
+}
+
+.post-item {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.user-name a {
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.post-content {
+    font-size: 18px;
+}
+
+.btn-likes {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.btn-likes:focus{
+    border: none;
+    outline: none;
+}
+
+.post-likes {
+    display: inline-block;
+}
+
+
+
+
+
+
+
+/* #bar {
+    color: gray;
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-item, .navbar-brand {
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.bar-nav {
+    background-color: #343A40;
+    color: white;
+}
+
+#user-head {
+    text-transform: capitalize;
+    margin-left: 5px;
+    color: white;
+}
+
+#follow-data {
+    font-size: medium;
+}
+
+.btn-link {
+    padding-left: 1px;
+    padding-bottom: 1px;    
+    padding-top: 1px;
+}
+
+.page-item {
+    background-color: gray;
+} */
